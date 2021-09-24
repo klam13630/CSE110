@@ -1,7 +1,7 @@
 #### **Third year Computer Engineering major at UCSD.**
 ##### Sections 
-  1. [Programming Languages (in order learned)](https://github.com/klam13630/CSE110/new/main#programming-languages-in-order-learned)
-  2. [Funny code snippets](https://github.com/klam13630/CSE110/new/main#funny-code-snippets)
+  1. [Programming Languages (in order learned)](https://github.com/klam13630/CSE110/main#programming-languages-in-order-learned)
+  2. [Funny code snippets](https://github.com/klam13630/CSE110/main#funny-code-snippets)
 ##### Programming Languages (in order learned)
 1. Java
 2. C++
