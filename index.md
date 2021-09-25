@@ -31,11 +31,12 @@ README.md is [here](./README.md)
 ###### Favorite YouTube Channels
  - [Dead Meat](https://www.youtube.com/c/DeadMeat)
 
+![Dead Meat logo](https://pbs.twimg.com/profile_images/849037240906858496/9At4KySd_400x400.jpg)
  - [Mark Rober](https://www.youtube.com/c/MarkRober)
 
 
 ###### To-do
-- [ ] Pictures
+- [x] Pictures
 - [x] Headings
 - [x] Styling Text
 - [x] Quoting Text
